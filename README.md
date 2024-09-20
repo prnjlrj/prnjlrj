@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prnjlrj
+- 👋 Hi, I’m Pranjal
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning python , pytorch , C 
 - 📫 How to reach me ...
